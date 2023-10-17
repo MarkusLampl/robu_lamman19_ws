@@ -1,0 +1,3 @@
+[console_scripts]
+ex10_wallfollower = robu.ex10_wallfollower:mainmypublisher = robu.publisher_member_function.mainmysubscriber = robu.publisher_member_function.main
+
